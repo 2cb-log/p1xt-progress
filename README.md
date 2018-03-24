@@ -1,5 +1,5 @@
 # Speedstudy
-####   _accelerating_, tracking my learning
+####   organizing, tracking, _accelerating?_ my learning
 
 Starting out with Speedstudy, I'm immediately personalizing to my study style:
 * Track goals when reached rather than log daily activity
@@ -44,7 +44,7 @@ As for fulfilling a goal of "build a deeper foundation" in mathematics, the scie
 | 03-23-2018    | Books     | 50     | [YDKJS: Async & Performance, ch.4](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md)    |
 
 
-### Deferred
+## Deferred
 
 * [Angular](2018/progress/frontend_frameworks/angular/angular.md)
 * [React](2018/progress/frontend_frameworks/react/react.md)
