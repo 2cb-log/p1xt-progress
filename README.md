@@ -1,9 +1,9 @@
 # Speedstudy
-####   organizing, tracking, _accelerating?_ my learning
+####   organizing, tracking, bolstering my learning
 
-Starting out with Speedstudy, I'm immediately personalizing to my study style:
+As intended with the design of the [original Speedstudy repo](https://github.com/P1xt/speedstudy), I'm tuning this repo to my study style:
 * Track goals when reached rather than log daily activity
-* Split the great ideas and detail of the @P1xt origin repo into 'Deferred' and 'Currently' learning objectives
+* Split @P1xt's great course and project ideas into 'Deferred' and 'Currently' learning objectives
 * Save personal notes for contributing to discussions rather than displaying outright
 
 ## Rules (modified)
@@ -36,13 +36,13 @@ As for fulfilling a goal of "build a deeper foundation" in mathematics, the scie
 
 ## Progress Tally
 
-#### Total Points:  108
+#### Total Points:  173
 
 | Date Finished | Learning Task      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
 | 02-18-2018    | Tutorials     | 58     | [Advanced Coding HTML & CSS](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c)    |
 | 03-23-2018    | Books     | 50     | [YDKJS: Async & Performance, ch.4](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md)    |
-
+| 04-01-2018    | Books     | 65     | [YDKJS: Async & Performance, rest](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)    |
 
 ## Deferred
 
