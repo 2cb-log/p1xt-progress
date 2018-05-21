@@ -4,12 +4,13 @@
 As intended with the design of the [original Speedstudy repo](https://github.com/P1xt/speedstudy), I'm tuning this repo to my study style:
 * Track goals when reached rather than log daily activity
 * Split @P1xt's great course and project ideas into 'Deferred' and 'Currently' learning objectives
-* Save personal notes for contributing to discussions rather than displaying outright
+* Save personal notes for contributing to discussions rather than posting outright
 
 ## Rules (modified)
 
 1. Always be working on one "course", don't work on more than two.
-1. Points for all course segments should be proportional and totaled before beginning.
+1. Points for "course" segments should be proportional to the expected effort and split out before beginning study.
+1. It's totally okay to grant points for completed segments rather than an entire course: the segment is set at a signficant unit of work.
 1. Add bonus objectives only after completion of a milestone "course".
 
 ## 2018
@@ -30,19 +31,22 @@ As for fulfilling a goal of "build a deeper foundation" in mathematics, the scie
 | Technical Reading | [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) |
 | Tutorials | [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/) |
 | Frontend framework | [Vue](https://vuejs.org) |
-| College course | [Introduction to Computer Science cs50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) |
+| College course | _under review_ |
 | Code challenges | _under review_ |
 
 
 ## Progress Tally
 
-#### Total Points:  173
+#### Total Points:  290
 
 | Date Finished | Learning Task      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
 | 02-18-2018    | Tutorials     | 58     | [Advanced Coding HTML & CSS](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c)    |
 | 03-23-2018    | Books     | 50     | [YDKJS: Async & Performance, ch.4](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md)    |
-| 04-01-2018    | Books     | 65     | [YDKJS: Async & Performance, rest](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)    |
+| 04-01-2018    | Books     | 65     | [YDKJS: Async & Performance, end](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)    |
+| 04-03-2018    | Books     |  2     | [YDKJS: ES6 & Beyond, ch.1](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md)    |
+| 05-13-2018    | Books     | 65     | [YDKJS: ES6 & Beyond, ch.2](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md)    |
+| 05-18-2018    | Books     | 50     | [YDKJS: ES6 & Beyond, ch.3](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md)    |
 
 ## Deferred
 
