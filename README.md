@@ -25,28 +25,29 @@ As for fulfilling a goal of "build a deeper foundation" in mathematics, the scie
 
 ## Currently, overview
 
-| Learning Topic | Current Focus (resource linked)     |
+| Learning Topic | Current Focus (linked)     |
 |----------------|----------------------------------|
-| Portfolio projects | _under review_ |
-| Technical Reading | [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) |
+| Portfolio projects | [Portfolio placeholder page](https://freebiesbug.com/psd-freebies/resume-page-template-psd/) |
+| Technical Reading | [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) |
 | Tutorials | [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/) |
-| Frontend framework | [Vue](https://vuejs.org) |
-| College course | _under review_ |
-| Code challenges | _under review_ |
-
+| Frontend framework | [Vue Essentials](https://vuejs.org/v2/guide/) |
+| College course | [HarvardX CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) |
+| Code challenges | [CodeWars](https://www.codewars.com/) |
 
 ## Progress Tally
 
-#### Total Points:  290
+#### Total Points: 373
 
 | Date Finished | Learning Task      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| 02-18-2018    | Tutorials     | 58     | [Advanced Coding HTML & CSS](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c)    |
-| 03-23-2018    | Books     | 50     | [YDKJS: Async & Performance, ch.4](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md)    |
-| 04-01-2018    | Books     | 65     | [YDKJS: Async & Performance, end](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)    |
-| 04-03-2018    | Books     |  2     | [YDKJS: ES6 & Beyond, ch.1](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md)    |
-| 05-13-2018    | Books     | 65     | [YDKJS: ES6 & Beyond, ch.2](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md)    |
+| 07-09-2018    | Blog Posts     | 30     | [Bonus: JavaScript Testing (2+), ex. 2018 Overview ](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)    |
+| 07-08-2018    | Books     | 83     | [YDKJS: ES6 & Beyond, end](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)    |
 | 05-18-2018    | Books     | 50     | [YDKJS: ES6 & Beyond, ch.3](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md)    |
+| 05-13-2018    | Books     | 65     | [YDKJS: ES6 & Beyond, ch.2](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md)    |
+| 04-03-2018    | Books     |  2     | [YDKJS: ES6 & Beyond, ch.1](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md)    |
+| 04-01-2018    | Books     | 65     | [YDKJS: Async & Performance, end](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)    |
+| 03-23-2018    | Books     | 50     | [YDKJS: Async & Performance, ch.4](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md)    |
+| 02-18-2018    | Tutorials     | 58     | [Advanced Coding HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)    |
 
 ## Deferred
 
