@@ -30,16 +30,18 @@ As for fulfilling a goal of "build a deeper foundation" in mathematics, the scie
 | Portfolio projects | [Portfolio placeholder page](https://freebiesbug.com/psd-freebies/resume-page-template-psd/) |
 | Technical Reading | [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) |
 | Tutorials | [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/) |
-| Frontend framework | [Vue Essentials](https://vuejs.org/v2/guide/) |
+| Frontend framework | [Vue, "Tier 0" pre-Vue basics](https://github.com/P1xt/p1xt-guides/blob/master/topic-guides/vue.md) |
 | College course | [HarvardX CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) |
 | Code challenges | [CodeWars](https://www.codewars.com/) |
 
 ## Progress Tally
 
-#### Total Points: 373
+#### Total Points: 553
 
 | Date Finished | Learning Task      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
+| 08-29-2018    | Source Docs     | 50     | [Bonus: CSS Grid Layout Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)    |
+| 08-27-2018    | Projects     | 100     | [Project (small): build a clock challenge]()    |
 | 07-09-2018    | Blog Posts     | 30     | [Bonus: JavaScript Testing (2+), ex. 2018 Overview ](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)    |
 | 07-08-2018    | Books     | 83     | [YDKJS: ES6 & Beyond, end](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)    |
 | 05-18-2018    | Books     | 50     | [YDKJS: ES6 & Beyond, ch.3](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md)    |
